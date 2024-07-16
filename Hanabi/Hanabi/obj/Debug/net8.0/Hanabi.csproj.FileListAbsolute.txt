@@ -1,0 +1,15 @@
+C:\Users\macka\CodingProjects\Hanabi\Hanabi\Hanabi\bin\Debug\net8.0\Hanabi.exe
+C:\Users\macka\CodingProjects\Hanabi\Hanabi\Hanabi\bin\Debug\net8.0\Hanabi.deps.json
+C:\Users\macka\CodingProjects\Hanabi\Hanabi\Hanabi\bin\Debug\net8.0\Hanabi.runtimeconfig.json
+C:\Users\macka\CodingProjects\Hanabi\Hanabi\Hanabi\bin\Debug\net8.0\Hanabi.dll
+C:\Users\macka\CodingProjects\Hanabi\Hanabi\Hanabi\bin\Debug\net8.0\Hanabi.pdb
+C:\Users\macka\CodingProjects\Hanabi\Hanabi\Hanabi\obj\Debug\net8.0\Hanabi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macka\CodingProjects\Hanabi\Hanabi\Hanabi\obj\Debug\net8.0\Hanabi.AssemblyInfoInputs.cache
+C:\Users\macka\CodingProjects\Hanabi\Hanabi\Hanabi\obj\Debug\net8.0\Hanabi.AssemblyInfo.cs
+C:\Users\macka\CodingProjects\Hanabi\Hanabi\Hanabi\obj\Debug\net8.0\Hanabi.csproj.CoreCompileInputs.cache
+C:\Users\macka\CodingProjects\Hanabi\Hanabi\Hanabi\obj\Debug\net8.0\Hanabi.sourcelink.json
+C:\Users\macka\CodingProjects\Hanabi\Hanabi\Hanabi\obj\Debug\net8.0\Hanabi.dll
+C:\Users\macka\CodingProjects\Hanabi\Hanabi\Hanabi\obj\Debug\net8.0\refint\Hanabi.dll
+C:\Users\macka\CodingProjects\Hanabi\Hanabi\Hanabi\obj\Debug\net8.0\Hanabi.pdb
+C:\Users\macka\CodingProjects\Hanabi\Hanabi\Hanabi\obj\Debug\net8.0\Hanabi.genruntimeconfig.cache
+C:\Users\macka\CodingProjects\Hanabi\Hanabi\Hanabi\obj\Debug\net8.0\ref\Hanabi.dll
