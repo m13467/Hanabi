@@ -15,7 +15,7 @@ Coding Language: I plan to use C# with .NET Maui
 - When the user selects a player, the player's hand will enlarge to fill the screen
 - Display of public knowledge (stacks, discard, # of hint tokens, countdown to bomb explosion) 
 ### Coding
-- Create a Card class with values of color(string or enum), number(int), knowColor(bool), and knowNumber(bool).
+- Create a Card class with values of color(enum), number(int), knowColor(bool), and knowNumber(bool).
 - The deck just needs to be a randomized stack of all of the possible cards. Then remove from the top to build hands for players and when a player draws a card.
 - Each turn will have 3 options; play a card, discard a card, or give another player a hint.
 - Create a Player class that has a hand of cards to keep track of who has what cards.
