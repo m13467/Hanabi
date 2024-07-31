@@ -43,7 +43,7 @@ class Card {
         return this.knowNumber;
     }
 
-    public void ToString() {
+    new public string ToString() {
         String str = this.number.ToString();
         switch (this.color) {
             case Color.RED:
@@ -62,6 +62,6 @@ class Card {
                 str += " green";
                 break;
         }
-        Console.WriteLine(str);
+        return str;
     }
 }
