@@ -47,20 +47,26 @@ class Card {
         String str = this.number.ToString();
         switch (this.color) {
             case Color.RED:
-                str += " red";
+                str += " R";
                 break;
             case Color.BLUE:
-                str += " blue";
+                str += " B";
                 break;
             case Color.WHITE:
-                str += " white";
+                str += " W";
                 break;
             case Color.YELLOW:
-                str += " yellow";
+                str += " Y";
                 break;
             case Color.GREEN:
-                str += " green";
+                str += " G";
                 break;
+        }
+        if (knowColor) {
+            str += " C";
+        } 
+        if (knowNumber) {
+            str += " N";
         }
         return str;
     }

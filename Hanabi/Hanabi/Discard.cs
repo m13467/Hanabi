@@ -62,6 +62,40 @@ class Discard{
         }
     }
 
+    public string ToString() {
+        string str = "W: ";
+        foreach(KeyValuePair<int, int> entry in whiteCards) {
+            for (int i = 0; i < entry.Value; i++) {
+                str += entry.Key;
+            }
+        }
+        str += "\nR: ";
+        foreach(KeyValuePair<int, int> entry in redCards) {
+            for (int i = 0; i < entry.Value; i++) {
+                str += entry.Key;
+            }
+        }
+        str += "\nB: ";
+        foreach(KeyValuePair<int, int> entry in blueCards) {
+            for (int i = 0; i < entry.Value; i++) {
+                str += entry.Key;
+            }
+        }
+        str += "\nY: ";
+        foreach(KeyValuePair<int, int> entry in yellowCards) {
+            for (int i = 0; i < entry.Value; i++) {
+                str += entry.Key;
+            }
+        }
+        str += "\nG: ";
+        foreach(KeyValuePair<int, int> entry in greenCards) {
+            for (int i = 0; i < entry.Value; i++) {
+                str += entry.Key;
+            }
+        }
+        return str;
+    }
+
     public Dictionary<int,int> GetRedCards() {
         return redCards;
     }
